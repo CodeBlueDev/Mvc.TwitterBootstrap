@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc.TwitterBootstrap3", "Mvc.TwitterBootstrap3\Mvc.TwitterBootstrap3.csproj", "{544D62B9-3E97-4B35-B0B9-3130E6CBAA20}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TwitterBootstrap3", "TwitterBootstrap3", "{E6DC8264-D104-4959-8EAB-89AAC4658889}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc.TwitterBootstrap3.Web", "Mvc.TwitterBootstrap3.Web\Mvc.TwitterBootstrap3.Web.csproj", "{168F8D71-5739-45D9-97CD-87B667C11BE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{544D62B9-3E97-4B35-B0B9-3130E6CBAA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544D62B9-3E97-4B35-B0B9-3130E6CBAA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544D62B9-3E97-4B35-B0B9-3130E6CBAA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544D62B9-3E97-4B35-B0B9-3130E6CBAA20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{168F8D71-5739-45D9-97CD-87B667C11BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{168F8D71-5739-45D9-97CD-87B667C11BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{168F8D71-5739-45D9-97CD-87B667C11BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{168F8D71-5739-45D9-97CD-87B667C11BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{544D62B9-3E97-4B35-B0B9-3130E6CBAA20} = {E6DC8264-D104-4959-8EAB-89AAC4658889}
+		{168F8D71-5739-45D9-97CD-87B667C11BE7} = {E6DC8264-D104-4959-8EAB-89AAC4658889}
+	EndGlobalSection
+EndGlobal
